@@ -1,0 +1,56 @@
+{
+
+    "messages": {
+        "rankUpWithNewRole": "Congratulations ✨ You have ranked up! You have been promoted to a {role} {role_emoji}",
+        "rankUp": "You ranked up ✨ you're becoming a better adventurer day by day!",
+        "rankUpAbove400NotLiving": "You're still climbing the ranks 🔥 I expect nothing less from a {role} {role_emoji}",
+        "rankUpAbove400Living": "You ranked up ✨ Stop showing off… we get it! You’re a Living Grimoir <:LivingGrimoir:1268505490774823022>",
+        "rankUpToLiving": "You ranked up ✨ Stop showing off… we get it! You’re a Living Grimoir <:LivingGrimoir:1268505490774823022>"
+    },
+
+    "emojis": {
+        "Living Grimoir": "<:LivingGrimoir:1268505490774823022> ",
+        "Divine Mage": "<:DivineMage:1268280995053043712>",
+        "Imperial Mage": "<:ImperialMage:1268280849460232297>",
+        "Demon Mage": "<:DemonMage:1268280840060665978>",
+        "Holy Mage": "<:HolyMage:1268280847006568489>",
+        "First-Class Mage": "<:FirstClassMage:1268280844569808998>",
+        "Advanced Mage": "<:AdvancedMage:1268280837800071268>",
+        "Intermediate Mage": "<:IntermediateMage:1268280851762778132>",
+        "Rookie Mage": "<:RookieMage:1268280853809598567>",
+        "Pureblood Knight": "<:PurebloodKnight:1268232094719672360>",
+        "Veteran Knight": "<:VeteranKnight:1268232101329899612>",
+        "Paladin Knight": "<:PaladinKnight:1268232092547022848>",
+        "Landed Knight": "<:LandedKnight:1268232102856364092>",
+        "Knight's Vanguard": "<:KnightsVanguard:1268232052277252208>",
+        "Hedge Knight": "<:HedgeKnight:1268232050020847626>",
+        "Advanced Knight": "<:AdvancedKnight:1268232099488337920>",
+        "Novice Knight": "<:NoviceKnight:1268232097340854407>"
+    },
+
+    "roles": {
+        "Living Grimoir": "1267866492360458351",
+        "Divine Mage": "1268132057976930401",
+        "Imperial Mage": "1268132005586014241",
+        "Demon Mage": "1268131907288432640",
+        "Holy Mage": "1268131861591494719",
+        "First-Class Mage": "1268131811175829595",
+        "Advanced Mage": "1268131728569008200",
+        "Intermediate Mage": "1268131675070664799",
+        "Rookie Mage": "1268503908331032606",
+        "Active Class: Mage": "1268131583777439825",
+        "Pureblood Knight": "1268229948183679062",
+        "Veteran Knight": "1268229874896867380",
+        "Paladin Knight": "1268229811864735818",
+        "Landed Knight": "1268229736035782737",
+        "Knight's Vanguard": "1268229556498727115",
+        "Hedge Knight": "1268229669690540084",
+        "Advanced Knight": "1268229474592358494",
+        "Novice Knight": "1268503696925528158",
+        "Active Class: Knight": "1268229387149643827"
+    },
+
+    "testServer": "1089168435793121362",
+    "clientId": "1268035593284227135",
+    "devs": ["590575157718941708", "411267877103075338"]
+}
